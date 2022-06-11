@@ -1,0 +1,157 @@
+
+
+body{
+    background-color: #f2f2f2;
+    margin: 20px 20px;
+    
+}
+
+#star{
+    display: block;
+    background: #262E38;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 3em;
+    
+
+
+}
+
+h1
+{
+font-family: 'Overpass',sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 35px;
+color: #FFFFFF;
+}
+
+ p{
+    font-family: 'Overpass',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #969FAD;
+}
+
+h3{
+    font-family: 'Overpass',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #969FAD;
+}
+
+.rating{
+
+    display: inline-block;
+    background: #262E38;
+    width: 48px;
+    height: 48px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    font-family: 'Overpass';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+color: #7C8798;
+margin: 40px 15px;
+
+/* identical to box height, or 150% */
+
+text-align: center;
+letter-spacing: 0.2px;
+}
+
+.rating:hover{
+
+background-color: #7C8798;
+color: #FFFFFF;
+
+
+}
+
+.submit-btn:hover{
+
+background-color: #FFFFFF;
+color:#FC7614;
+}
+
+
+
+.submit-btn{
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 19px;
+letter-spacing: 2px;
+color: #FFFFFF;
+background: #FC7614;
+border-radius: 22.5px;
+height: 45px;
+width: 341px;
+text-align: center;
+line-height: 50px;
+margin: 0 auto;
+}
+
+.box{
+    width: 412px;
+    height: 416px;
+    left: 514px;
+    top: 195px;
+    border-color: aliceblue;
+    border: 1px;
+    border-style: solid;
+    padding: 40px;
+    margin: 20px 20px;
+    border-radius: 30px;
+    background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+    
+}
+
+.box2{
+    width: 412px;
+    height: 416px;
+    left: 514px;
+    top: 195px;
+    border-color: aliceblue;
+    border: 1px;
+    border-style: solid;
+    padding: 40px;
+    margin: 20px 20px;
+    border-radius: 30px;
+    background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+    
+}
+
+#thanks{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.dynamictext{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+
+}
+.thankstext{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
